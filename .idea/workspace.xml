@@ -5,8 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b39c38a7-3fe7-4480-bfb9-fa1b36db4e94" name="Changes" comment="My homework 4, dated March 18, 2023">
-      <change afterPath="$PROJECT_DIR$/HW3 (directory)/HW 4 (directory)/04_data_types_and_operations_part2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HW 4 (directory)/04(extra hw)_data_types_and_operations.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,6 +47,11 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Hp\PycharmProjects\Stefankiv-Homework\" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -66,7 +70,7 @@
       <workItem from="1678924289565" duration="4545000" />
       <workItem from="1679010629704" duration="763000" />
       <workItem from="1679101703833" duration="1942000" />
-      <workItem from="1679169707844" duration="8126000" />
+      <workItem from="1679169707844" duration="8484000" />
     </task>
     <task id="LOCAL-00001" summary="Commit demo practice">
       <created>1678250847306</created>
@@ -96,7 +100,14 @@
       <option name="project" value="LOCAL" />
       <updated>1679188926394</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="My homework 4, dated March 18, 2023">
+      <created>1679189033609</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1679189033609</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
