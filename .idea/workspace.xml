@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b39c38a7-3fe7-4480-bfb9-fa1b36db4e94" name="Changes" comment="My homework 5-2, dated March 21, 2023">
-      <change beforePath="$PROJECT_DIR$/HW 5/05_loops-2.py" beforeDir="false" afterPath="$PROJECT_DIR$/HW 5/05_loops-2.py" afterDir="false" />
-    </list>
+    <list default="true" id="b39c38a7-3fe7-4480-bfb9-fa1b36db4e94" name="Changes" comment="My homework 5-2, dated March 21, 2023" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -73,7 +71,7 @@
       <workItem from="1679169707844" duration="9604000" />
       <workItem from="1679243073813" duration="139000" />
       <workItem from="1679356483114" duration="3856000" />
-      <workItem from="1679458238533" duration="1104000" />
+      <workItem from="1679458238533" duration="1370000" />
     </task>
     <task id="LOCAL-00001" summary="Commit demo practice">
       <created>1678250847306</created>
@@ -145,7 +143,14 @@
       <option name="project" value="LOCAL" />
       <updated>1679461336983</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="My homework 5-2, dated March 21, 2023">
+      <created>1679461603469</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1679461603470</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
