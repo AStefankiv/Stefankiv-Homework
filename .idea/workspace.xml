@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b39c38a7-3fe7-4480-bfb9-fa1b36db4e94" name="Changes" comment="Homework 10 - part2 - 9th of April - Stefankiv Andrii">
-      <change beforePath="$PROJECT_DIR$/HW_10/10_recursion.py" beforeDir="false" afterPath="$PROJECT_DIR$/HW_10/10_recursion.py" afterDir="false" />
-    </list>
+    <list default="true" id="b39c38a7-3fe7-4480-bfb9-fa1b36db4e94" name="Changes" comment="Homework 10 - part1 - 9th of April - Stefankiv Andrii" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -83,7 +81,7 @@
       <workItem from="1680825526622" duration="8612000" />
       <workItem from="1680885426108" duration="5892000" />
       <workItem from="1680899119149" duration="21792000" />
-      <workItem from="1681069475189" duration="12852000" />
+      <workItem from="1681069475189" duration="13331000" />
     </task>
     <task id="LOCAL-00001" summary="Commit demo practice">
       <created>1678250847306</created>
@@ -190,7 +188,21 @@
       <option name="project" value="LOCAL" />
       <updated>1681083220882</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="Homework 10 - part2 - 9th of April - Stefankiv Andrii">
+      <created>1681083995875</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1681083995875</updated>
+    </task>
+    <task id="LOCAL-00017" summary="Homework 10 - part1 - 9th of April - Stefankiv Andrii">
+      <created>1681084210639</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1681084210640</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -231,7 +243,8 @@
     <MESSAGE value="Self-corrected" />
     <MESSAGE value="Homework 10 - 9th of April - Stefankiv Andrii" />
     <MESSAGE value="Homework 10 - part2 - 9th of April - Stefankiv Andrii" />
-    <option name="LAST_COMMIT_MESSAGE" value="Homework 10 - part2 - 9th of April - Stefankiv Andrii" />
+    <MESSAGE value="Homework 10 - part1 - 9th of April - Stefankiv Andrii" />
+    <option name="LAST_COMMIT_MESSAGE" value="Homework 10 - part1 - 9th of April - Stefankiv Andrii" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Stefankiv_Homework$05_loops_2.coverage" NAME="05_loops-2 Coverage Results" MODIFIED="1679461246845" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/HW 5" />
@@ -247,6 +260,7 @@
     <SUITE FILE_PATH="coverage/Stefankiv_Homework$06_functions.coverage" NAME="06_functions Coverage Results" MODIFIED="1679885667765" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/HW 6" />
     <SUITE FILE_PATH="coverage/Stefankiv_Homework$_pydev_execfile.coverage" NAME="_pydev_execfile Coverage Results" MODIFIED="1679182533239" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$APPLICATION_HOME_DIR$/plugins/python/helpers/pydev/_pydev_imps" />
     <SUITE FILE_PATH="coverage/Stefankiv_Homework$Not_homework_miscellaneous_.coverage" NAME="Not_homework(miscellaneous) Coverage Results" MODIFIED="1679883445378" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/HW 5" />
+    <SUITE FILE_PATH="coverage/Stefankiv_Homework$10_recursion___part_1.coverage" NAME="10_recursion - part 1 Coverage Results" MODIFIED="1681084124064" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/HW_10" />
     <SUITE FILE_PATH="coverage/Stefankiv_Homework$08_collections_part2.coverage" NAME="08_collections_part2 Coverage Results" MODIFIED="1680507055123" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/HW 8" />
     <SUITE FILE_PATH="coverage/Stefankiv_Homework$10_recursion.coverage" NAME="10_recursion Coverage Results" MODIFIED="1681083199433" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/HW_10" />
     <SUITE FILE_PATH="coverage/Stefankiv_Homework$04_data_types_and_operations_part2.coverage" NAME="04_data_types_and_operations_part2 Coverage Results" MODIFIED="1679243192973" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/HW 4 (directory)" />
