@@ -1,9 +1,11 @@
-# HW 1
-def recursion(n: int) -> None:
-    print(n, end=" ")
-    if n == 0:
-        return None
-    return recursion(n - 1)
+# HW 2
 
-enter = int(input("Enter any number: "))
-result = recursion(enter)
+def fibonacci(n):
+    if n <= 1:
+        return n
+    else:
+        return fibonacci(n - 2) + fibonacci(n - 1)
+
+n = int(input("Enter a position in Fibonacci sequence: "))
+result = fibonacci(n)
+print(f"The Fibonacci number at position {n} is {result}.")
