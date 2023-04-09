@@ -1,4 +1,4 @@
-# Homework 1
+# HW 1
 def recursion(n: int) -> None:
     print(n, end=" ")
     if n == 0:
