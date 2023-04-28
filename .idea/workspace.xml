@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b39c38a7-3fe7-4480-bfb9-fa1b36db4e94" name="Changes" comment="Homework 13 - 18th of April - Stefankiv Andrii">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/12_decorators.py" beforeDir="false" afterPath="$PROJECT_DIR$/12_decorators.py" afterDir="false" />
-    </list>
+    <list default="true" id="b39c38a7-3fe7-4480-bfb9-fa1b36db4e94" name="Changes" comment="Homework 12 - 27th of April - Stefankiv Andrii" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -110,7 +107,14 @@
       <option name="project" value="LOCAL" />
       <updated>1679189033609</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Homework 12 - 27th of April - Stefankiv Andrii">
+      <created>1682652797710</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1682652797710</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -144,12 +148,13 @@
     <MESSAGE value="Commit demo practice March 12" />
     <MESSAGE value="My homework 3, dated March 12, 2023" />
     <MESSAGE value="My homework 4, dated March 18, 2023" />
-    <option name="LAST_COMMIT_MESSAGE" value="My homework 4, dated March 18, 2023" />
+    <MESSAGE value="Homework 12 - 27th of April - Stefankiv Andrii" />
+    <option name="LAST_COMMIT_MESSAGE" value="Homework 12 - 27th of April - Stefankiv Andrii" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Stefankiv_Homework$05_loops_2.coverage" NAME="05_loops-2 Coverage Results" MODIFIED="1679461246845" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/HW 5" />
     <SUITE FILE_PATH="coverage/Stefankiv_Homework$04_extra_hw__data_types_and_operations.coverage" NAME="04(extra hw)_data_types_and_operations Coverage Results" MODIFIED="1679243160174" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/HW 4 (directory)" />
-    <SUITE FILE_PATH="coverage/Stefankiv_Homework$12_decorators.coverage" NAME="12_decorators Coverage Results" MODIFIED="1682651974830" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Stefankiv_Homework$12_decorators.coverage" NAME="12_decorators Coverage Results" MODIFIED="1682652756711" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Stefankiv_Homework$Try.coverage" NAME="Try Coverage Results" MODIFIED="1679183167671" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/HW3 (directory)" />
     <SUITE FILE_PATH="coverage/Stefankiv_Homework$10_recursion___part_2.coverage" NAME="10_recursion - part 2 Coverage Results" MODIFIED="1681084597115" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/HW_10" />
     <SUITE FILE_PATH="coverage/Stefankiv_Homework$7_lists.coverage" NAME="7_lists Coverage Results" MODIFIED="1680066155055" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
