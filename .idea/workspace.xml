@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b39c38a7-3fe7-4480-bfb9-fa1b36db4e94" name="Changes" comment="Homework 12 - 27th of April - Stefankiv Andrii">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="b39c38a7-3fe7-4480-bfb9-fa1b36db4e94" name="Changes" comment="My homework 4, dated March 18, 2023">
+      <change afterPath="$PROJECT_DIR$/HW 4 (directory)/04(extra hw)_data_types_and_operations.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,7 +22,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="HW_12" />
+        <entry key="$PROJECT_DIR$" value="HW3" />
       </map>
     </option>
   </component>
@@ -71,8 +71,6 @@
       <workItem from="1679010629704" duration="763000" />
       <workItem from="1679101703833" duration="1942000" />
       <workItem from="1679169707844" duration="8484000" />
-      <workItem from="1680478460877" duration="290000" />
-      <workItem from="1680478818798" duration="3764000" />
     </task>
     <task id="LOCAL-00001" summary="Commit demo practice">
       <created>1678250847306</created>
@@ -109,14 +107,7 @@
       <option name="project" value="LOCAL" />
       <updated>1679189033609</updated>
     </task>
-    <task id="LOCAL-00006" summary="Homework 12 - 27th of April - Stefankiv Andrii">
-      <created>1682652797710</created>
-      <option name="number" value="00006" />
-      <option name="presentableId" value="LOCAL-00006" />
-      <option name="project" value="LOCAL" />
-      <updated>1682652797710</updated>
-    </task>
-    <option name="localTasksCounter" value="7" />
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -150,38 +141,14 @@
     <MESSAGE value="Commit demo practice March 12" />
     <MESSAGE value="My homework 3, dated March 12, 2023" />
     <MESSAGE value="My homework 4, dated March 18, 2023" />
-    <MESSAGE value="Homework 12 - 27th of April - Stefankiv Andrii" />
-    <option name="LAST_COMMIT_MESSAGE" value="Homework 12 - 27th of April - Stefankiv Andrii" />
+    <option name="LAST_COMMIT_MESSAGE" value="My homework 4, dated March 18, 2023" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/Stefankiv_Homework$05_loops_2.coverage" NAME="05_loops-2 Coverage Results" MODIFIED="1679461246845" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/HW 5" />
-    <SUITE FILE_PATH="coverage/Stefankiv_Homework$04_extra_hw__data_types_and_operations.coverage" NAME="04(extra hw)_data_types_and_operations Coverage Results" MODIFIED="1679243160174" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/HW 4 (directory)" />
-    <SUITE FILE_PATH="coverage/Stefankiv_Homework$12_decorators.coverage" NAME="12_decorators Coverage Results" MODIFIED="1682652990405" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Stefankiv_Homework$Try.coverage" NAME="Try Coverage Results" MODIFIED="1679183167671" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/HW3 (directory)" />
-    <SUITE FILE_PATH="coverage/Stefankiv_Homework$10_recursion___part_2.coverage" NAME="10_recursion - part 2 Coverage Results" MODIFIED="1681084597115" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/HW_10" />
-    <SUITE FILE_PATH="coverage/Stefankiv_Homework$7_lists.coverage" NAME="7_lists Coverage Results" MODIFIED="1680066155055" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Stefankiv_Homework$_pydev_execfile.coverage" NAME="_pydev_execfile Coverage Results" MODIFIED="1679182533239" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$APPLICATION_HOME_DIR$/plugins/python/helpers/pydev/_pydev_imps" />
-    <SUITE FILE_PATH="coverage/Stefankiv_Homework$11_errors___demo.coverage" NAME="11_errors - demo Coverage Results" MODIFIED="1681702936463" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/HW 11" />
-    <SUITE FILE_PATH="coverage/Stefankiv_Homework$Not_homework_miscellaneous_.coverage" NAME="Not_homework(miscellaneous) Coverage Results" MODIFIED="1679883445378" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/HW 5" />
-    <SUITE FILE_PATH="coverage/Stefankiv_Homework$10_recursion___part_1.coverage" NAME="10_recursion - part 1 Coverage Results" MODIFIED="1681084124064" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/HW_10" />
-    <SUITE FILE_PATH="coverage/Stefankiv_Homework$08_collections_part2.coverage" NAME="08_collections_part2 Coverage Results" MODIFIED="1680507055123" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/HW 8" />
-    <SUITE FILE_PATH="coverage/Stefankiv_Homework$04_data_types_and_operations_part2.coverage" NAME="04_data_types_and_operations_part2 Coverage Results" MODIFIED="1679243192973" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/HW 4 (directory)" />
-    <SUITE FILE_PATH="coverage/Stefankiv_Homework$03_data_types_and_operationspart1.coverage" NAME="03_data_types_and_operationspart1 Coverage Results" MODIFIED="1678678713458" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Stefankiv_Homework$06_functions_extra_3.coverage" NAME="06_functions_extra_3 Coverage Results" MODIFIED="1679886846978" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/HW 6" />
-    <SUITE FILE_PATH="coverage/Stefankiv_Homework$13_files_demo.coverage" NAME="13_files_demo Coverage Results" MODIFIED="1681876001898" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Stefankiv_Homework$10_recursion___part_3.coverage" NAME="10_recursion - part 3 Coverage Results" MODIFIED="1681084682265" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/HW_10" />
-    <SUITE FILE_PATH="coverage/Stefankiv_Homework$13_files.coverage" NAME="13_files Coverage Results" MODIFIED="1681881218259" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Stefankiv_Homework$task_2_data_type.coverage" NAME="task_2_data_type Coverage Results" MODIFIED="1678925701525" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/HW3 (directory)/HW 4 (directory)" />
     <SUITE FILE_PATH="coverage/Stefankiv_Homework$task_1_data_type.coverage" NAME="task_1_data_type Coverage Results" MODIFIED="1678685479961" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/HW3 (directory)" />
-    <SUITE FILE_PATH="coverage/Stefankiv_Homework$05_loops.coverage" NAME="05_loops Coverage Results" MODIFIED="1679460916758" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/HW 5" />
-    <SUITE FILE_PATH="coverage/Stefankiv_Homework$07_collections_part_1.coverage" NAME="07_collections_part_1 Coverage Results" MODIFIED="1680482949284" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Stefankiv_Homework$06_functions_2.coverage" NAME="06_functions_2 Coverage Results" MODIFIED="1680485560050" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/HW 6" />
-    <SUITE FILE_PATH="coverage/Stefankiv_Homework$HW5.coverage" NAME="HW5 Coverage Results" MODIFIED="1679358726255" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/HW 5" />
-    <SUITE FILE_PATH="coverage/Stefankiv_Homework$06_functions.coverage" NAME="06_functions Coverage Results" MODIFIED="1679885667765" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/HW 6" />
-    <SUITE FILE_PATH="coverage/Stefankiv_Homework$11_errors.coverage" NAME="11_errors Coverage Results" MODIFIED="1681357462046" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/HW 11" />
-    <SUITE FILE_PATH="coverage/Stefankiv_Homework$10_recursion.coverage" NAME="10_recursion Coverage Results" MODIFIED="1681083199433" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/HW_10" />
-    <SUITE FILE_PATH="coverage/Stefankiv_Homework$demo.coverage" NAME="demo Coverage Results" MODIFIED="1683090132489" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Stefankiv_Homework$09_iterators_generators.coverage" NAME="09_iterators_generators Coverage Results" MODIFIED="1680911045386" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Stefankiv_Homework$06_functions_1.coverage" NAME="06_functions_1 Coverage Results" MODIFIED="1680484140749" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/HW 6" />
+    <SUITE FILE_PATH="coverage/Stefankiv_Homework$Try.coverage" NAME="Try Coverage Results" MODIFIED="1679183167671" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/HW3 (directory)" />
+    <SUITE FILE_PATH="coverage/Stefankiv_Homework$04_data_types_and_operations_part2.coverage" NAME="04_data_types_and_operations_part2 Coverage Results" MODIFIED="1679188591031" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/HW3 (directory)/HW 4 (directory)" />
+    <SUITE FILE_PATH="coverage/Stefankiv_Homework$03_data_types_and_operationspart1.coverage" NAME="03_data_types_and_operationspart1 Coverage Results" MODIFIED="1678678713458" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
