@@ -1,0 +1,4 @@
+SELECT user.id, COUNT(purchases.id) AS purchases_count
+FROM users AS user
+LEFT JOIN purchases ON user.id = purchases.user_id
+GROUP BY user.id
